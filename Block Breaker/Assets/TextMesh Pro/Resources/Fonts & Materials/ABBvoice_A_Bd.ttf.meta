@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 726d5ad60db324bb39c65cdf38f8175f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ABBvoice
+  fontNames:
+  - ABBvoice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 393865b3355344e9ebe387a3a478a95c, type: 3}
+  - {fileID: 12800000, guid: 1aab1ec7e3c4c4a988dc825f87fad7bc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
